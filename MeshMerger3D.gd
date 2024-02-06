@@ -1,5 +1,5 @@
 @tool
-class_name MeshMerger
+class_name MeshMerger3D
 extends MeshInstance3D
 
 var result_mesh:ArrayMesh
